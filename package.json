@@ -1,0 +1,11 @@
+{
+  "name":"erdb-ultimate-addon",
+  "version":"3.0.0",
+  "main":"server.js",
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
